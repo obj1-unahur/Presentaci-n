@@ -16,16 +16,15 @@ object programacionConObjetos {
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
-* Horario comisión **noche**: Martes 18hs.
-* Horario comisión **tarde**: Jueves 14hs.
+* Horario comisión **noche**: Martes y Jueves 18hs.
+* Horario comisión **tarde**: Lunes y Jueves 8hs.
 * Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
+* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1FTLWZ96uVd8V1xNkm2wvaUHhfS9MiC_LEomQYwJhI6I/edit#gid=1006593733) de clases.
-- [x] [Matricularse](https://discord.gg/RnAwZsSwdw) y ver el canal de Discord.
-- [x] [Clase de consulta](https://meet.google.com/ova-hohx-gzf) de los sábados 15 a 17 hs.
+- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
+- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
 - [x] [Mumuki](https://mumuki.io/unahur-obj1)
 
 ### Referencias Markdown 
