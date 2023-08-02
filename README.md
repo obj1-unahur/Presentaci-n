@@ -19,12 +19,12 @@ object programacionConObjetos {
 * Horario comisión **turno noche**: Martes y Jueves 18hs.
 * Horario comisión **turno mañana**: Lunes y Jueves 8hs.
 * Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+* Además nos acompañan como colaboradores Valentino Chiappanni, Micaela Bidegain, Branko Muruaga y Maricel Benitez.
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
+- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
+- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
 - [x] [Mumuki](https://mumuki.io/unahur-obj1)
 
 ### Referencias Markdown 
